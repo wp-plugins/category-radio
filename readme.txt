@@ -37,8 +37,8 @@ None at the moment
 
 == Screenshots ==
 
-<img src="../assets/img1.jpg" alt="Screenshot">
-/assets/img1.jpg
+<img src="http://plugins.svn.wordpress.org/category-radio/assets/img1.jpg" alt="Screenshot">
+http://plugins.svn.wordpress.org/category-radio/assets/img1.jpg
 
 
 == Changelog ==
