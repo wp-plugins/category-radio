@@ -37,7 +37,7 @@ None at the moment
 
 == Screenshots ==
 
-<img src="http://plugins.svn.wordpress.org/category-radio/assets/img1.jpg" alt="Screenshot">
+
 http://plugins.svn.wordpress.org/category-radio/assets/img1.jpg
 
 
