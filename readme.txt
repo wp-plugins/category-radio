@@ -37,6 +37,7 @@ None at the moment
 
 == Screenshots ==
 
+<img src="../assets/img1.jpg" alt="Screenshot">
 /assets/img1.jpg
 
 
