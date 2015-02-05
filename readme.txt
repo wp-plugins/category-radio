@@ -1,0 +1,41 @@
+=== Plugin Name ===
+Contributors: yu_harigae
+Donate link: http://example.com/
+Tags: category,radio
+Requires at least: 1.0
+Tested up to: 1.0
+Stable tag: 1.0
+License: GPLv2 or later
+
+
+== Description ==
+
+Plug -in only to change the radio button a category from the check box in the WordPress Admin screen
+
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+1. Upload `category_radio.php` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+
+ == Upgrade Notice ==
+
+None at the moment
+
+== Frequently Asked Questions ==
+
+None at the moment
+
+== Screenshots ==
+
+img1.jpg
+
+
+== Changelog ==
+
+= 1.0 =
+* A change since the previous version.
+* Another change.
+
