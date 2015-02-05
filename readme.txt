@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: yuya
+Contributors: Harigae
 Donate link: http://plugins.svn.wordpress.org/category-radio/
 Tags: category,radio
 Requires at least: 1.0
