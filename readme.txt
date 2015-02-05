@@ -12,6 +12,8 @@ License: GPLv2 or later
 
 Plug -in only to change the radio button a category from the check box in the WordPress Admin screen
 
+WordPress管理画面においてカテゴリーをチェックボックスからラジオボタンに変更させるだけのプラグイン
+
 == Installation ==
 
 This section describes how to install the plugin and get it working.
@@ -19,18 +21,23 @@ This section describes how to install the plugin and get it working.
 1. Upload `category_radio.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+インストールして有効化すればOK
 
  == Upgrade Notice ==
 
 None at the moment
 
+今のところないです
+
 == Frequently Asked Questions ==
 
 None at the moment
 
+質問なんてないかと…
+
 == Screenshots ==
 
-img1.jpg
+/assets/img1.jpg
 
 
 == Changelog ==
