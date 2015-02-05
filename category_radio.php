@@ -5,7 +5,7 @@
  */
 /*
 Plugin Name: Category Radio
-Plugin URI: http://wordpress.org/plugins/
+Plugin URI: https://wordpress.org/plugins/category-radio/
 Description: WordPress管理画面においてカテゴリーをチェックボックスからラジオボタンに変更させるだけのプラグイン
 Author: Harigae
 Version: 1.0
